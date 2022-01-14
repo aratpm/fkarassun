@@ -1,5 +1,5 @@
 {
-"status":false,
+"status":true,
 "version":"1",
 "linkone":"https://aratpm.github.io/fkarassun/",
 "demact":"https://aratpm.github.io/repa/",
