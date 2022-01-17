@@ -1,13 +1,14 @@
 {
 "status":true,
-"version":"1",
+"version":"2",
 "linkone":"https://aratpm.github.io/fkarassun/",
 "demact":"https://aratpm.github.io/repa/",
 
-"appId":"ca-app-pub-2449640894622823~6446286718",
-"banner":"ca-app-pub-2449640894622823/1193960033",
-"interstial":"ca-app-pub-2449640894622823/5511359437",
-"AppOpen":"ca-app-pub-2449640894622823/2315470010",
+"appId":"346064623999716",
+"PropertyID":"1318348621984074",
+"banner":"346064623999716_346066057332906",
+"interstial":"346064623999716_346066213999557",
+
 
 "linkbackup":"https://aratpm.github.io/apyvi/",
 
