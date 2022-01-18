@@ -1,6 +1,6 @@
 {
 "status":false,
-"version":"1",
+"version":"2",
 "linkone":"https://aratpm.github.io/fkarassun/",
 "demact":"https://aratpm.github.io/repa/",
 
