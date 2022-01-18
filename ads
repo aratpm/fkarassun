@@ -1,8 +1,8 @@
 {
-"status":false,
-"version":"2",
+"status":true,
+"version":"1",
 "linkone":"https://aratpm.github.io/fkarassun/",
-"demact":"https://aratpm.github.io/repa/",
+"demact":"https://fullkarassun.blogspot.com/2022/01/blog-post_18.html",
 
 "appId":"346064623999716",
 "PropertyID":"1318348621984074",
