@@ -1,6 +1,6 @@
 {
 "status":true,
-"version":"1",
+"version":"2",
 "linkone":"https://aratpm.github.io/fkarassun/",
 "demact":"https://fullkarassun.blogspot.com/2022/01/blog-post_18.html",
 
